@@ -6,6 +6,7 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'jquery'
 gem 'rails', '~> 5.2.0'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'jquery-ui-rails', '~> 5.0.5'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
